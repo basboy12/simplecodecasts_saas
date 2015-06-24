@@ -12,6 +12,9 @@ group :production do
   gem 'pg'
   gem 'rails_12factor'
 end
+
+#devise Gem
+gem 'devise', '3.4.1'
 # Use Font awesome
 gem 'font-awesome-sass', '4.3.0'
 # Use SCSS for stylesheets
